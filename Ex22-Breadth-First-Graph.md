@@ -20,8 +20,8 @@ To write a printQueue C function of the given graph that is to be traversed in t
 ```
 /*
 Program to traverse graph using BFS
-Developed by: SHANMUGAKARTHIK G
-RegisterNumber:  212223220105
+Developed by: Ranjan K
+RegisterNumber:  212222230116
 */
 void printQueue(struct queue* q) {
   int i = q->front;
